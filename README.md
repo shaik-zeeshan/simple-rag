@@ -4,8 +4,8 @@
 
 This use ollama for ai models and embedding and for the database we use chromadb
 
-[!IMPORTANT]
-before do anything you must have ollama and chromadb installed on your machine
+> [!IMPORTANT]
+> Before do anything you must have ollama and chromadb installed on your machine
 [Ollama](https://ollama.com/)
 [Chromadb](https://docs.trychroma.com/getting-started)
 
