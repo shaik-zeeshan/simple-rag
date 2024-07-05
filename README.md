@@ -15,6 +15,7 @@ This use ollama for ai models and embedding and for the database we use chromadb
 - Bun
 - Ollama
 - Chromadb
+- Custom Google Search API Key
 
 # Installation
 
